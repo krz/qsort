@@ -1,4 +1,4 @@
 qsort
 =====
 
-my implementation of the qsort algorithm in C, python and haskell
+my implementation of the qsort algorithm in C and haskell
